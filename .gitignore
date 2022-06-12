@@ -1,0 +1,8 @@
+# .DS_Store
+
+.DS_Store
+
+# Data
+
+geojson_linestring/*.geojson
+geojson_point/*.geojson
